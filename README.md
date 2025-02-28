@@ -54,8 +54,8 @@
     <td width="50%">
       <h3 align="center">InnovatedTC</h3>
       <div align="center">
-        <a href="https://github.com/KNMoise/innovatedtc" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=InnovatedTC" width="300" alt="Project"/>
+        <a href="https://www.innovatedtc.com/" target="_blank">
+          <img src="https://api.microlink.io?url=https%3A%2F%2Fwww.innovatedtc.com&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="InnovatedTC Website Preview"/>
         </a>
         <p><strong>Technology consulting platform designed to connect experts with businesses</strong></p>
       </div>
@@ -63,8 +63,8 @@
     <td width="50%">
       <h3 align="center">RwegoHub</h3>
       <div align="center">
-        <a href="https://github.com/KNMoise/rwegohub" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=RwegoHub" width="300" alt="Project"/>
+        <a href="https://www.rwegohub.com/" target="_blank">
+          <img src="https://api.microlink.io?url=https%3A%2F%2Fwww.rwegohub.com&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="RwegoHub Website Preview"/>
         </a>
         <p><strong>Digital marketplace connecting local artisans with global consumers</strong></p>
       </div>
@@ -74,8 +74,8 @@
     <td width="50%">
       <h3 align="center">EndGBViolence</h3>
       <div align="center">
-        <a href="https://github.com/KNMoise/endgbviolence" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=EndGBViolence" width="300" alt="Project"/>
+        <a href="https://www.endgbviolence.com/" target="_blank">
+          <img src="https://api.microlink.io?url=https%3A%2F%2Fwww.endgbviolence.com&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="EndGBViolence Website Preview"/>
         </a>
         <p><strong>Platform raising awareness and providing resources to combat gender-based violence</strong></p>
       </div>
@@ -83,8 +83,8 @@
     <td width="50%">
       <h3 align="center">SocialHubFoundation</h3>
       <div align="center">
-        <a href="https://github.com/KNMoise/socialhubfoundation" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=SocialHubFoundation" width="300" alt="Project"/>
+        <a href="https://socialhubfoundation.org/" target="_blank">
+          <img src="https://api.microlink.io?url=https%3A%2F%2Fsocialhubfoundation.org&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="SocialHubFoundation Website Preview"/>
         </a>
         <p><strong>Community-driven initiative supporting social development programs</strong></p>
       </div>
