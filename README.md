@@ -1,6 +1,7 @@
+<div align="center">
+  
 # Hello, There! I'm Moise NIZEYIMANA 👨‍💻
 
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E77F2&center=true&vCenter=true&random=false&width=600&height=70&lines=Software+Engineer;Problem+Solver;Creative+Thinker;Open+Source+Enthusiast" alt="Typing SVG" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=KNMoise&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
