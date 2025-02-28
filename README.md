@@ -43,7 +43,7 @@
   **Support Engineer**
   - Provided technical expertise for government institutions including:
     - Ministry of Finance and Economic Planning (MINECOFIN)
-    - Rwanda Social Security Board (RSSB)
+    - Rwanda Broadcasting Agency (RBA)
     - Equity Bank Rwanda
   - Implemented and maintained critical software systems
   - Delivered technical training to client teams
