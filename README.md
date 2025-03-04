@@ -151,7 +151,7 @@
 ```
 ⌨️ Weekly Code Composition
 
-React/Next.js  ████████████████░░░░  65%
+React/Next.js  ████████████████░░░░  80%
 Laravel/PHP    ████████░░░░░░░░░░░░  35%
 Flutter        ████░░░░░░░░░░░░░░░░  15%
 Database Work  ██████░░░░░░░░░░░░░░  25%
