@@ -66,6 +66,7 @@
           <img src="https://api.microlink.io?url=https%3A%2F%2Fwww.innovatedtc.com&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="InnovatedTC Website Preview"/>
         </a>
         <p><strong>Technology consulting platform designed to connect experts with businesses</strong></p>
+        <p><em>Technologies: React, Next.js, Tailwind CSS, MongoDB, Node.js</em></p>
       </div>
     </td>
     <td width="50%">
@@ -75,6 +76,7 @@
           <img src="https://api.microlink.io?url=https%3A%2F%2Fwww.rwegohub.com&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="RwegoHub Website Preview"/>
         </a>
         <p><strong>Digital marketplace connecting local artisans with global consumers</strong></p>
+        <p><em>Technologies: Laravel, PHP, MySQL, JavaScript, Bootstrap</em></p>
       </div>
     </td>
   </tr>
@@ -86,6 +88,7 @@
           <img src="https://api.microlink.io?url=https%3A%2F%2Fwww.endgbviolence.com&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="EndGBViolence Website Preview"/>
         </a>
         <p><strong>Platform raising awareness and providing resources to combat gender-based violence</strong></p>
+        <p><em>Technologies: WordPress, PHP, MySQL, JavaScript, Custom CSS</em></p>
       </div>
     </td>
     <td width="50%">
@@ -95,17 +98,29 @@
           <img src="https://api.microlink.io?url=https%3A%2F%2Fsocialhubfoundation.org&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="SocialHubFoundation Website Preview"/>
         </a>
         <p><strong>Community-driven initiative supporting social development programs</strong></p>
+        <p><em>Technologies: Next.js, React, Tailwind CSS, Strapi CMS</em></p>
       </div>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <h3 align="center">Shreveport-CHI</h3>
+      <div align="center">
+        <a href="https://shreveport-chi.vercel.app/" target="_blank">
+          <img src="https://api.microlink.io?url=https%3A%2F%2Fshreveport-chi.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Shreveport-CHI Website Preview"/>
+        </a>
+        <p><strong>Healthcare initiative platform connecting community resources with medical needs</strong></p>
+        <p><em>Technologies: Next.js, TypeScript, shadcn/ui, Tailwind CSS, Vercel</em></p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">LUX Rwanda</h3>
       <div align="center">
         <a href="https://lux.rw/" target="_blank">
-          <img src="https://api.microlink.io?url=https%3A%2F%2Flux.rw&screenshot=true&meta=false&embed=screenshot.url" width="600" alt="LUX Rwanda Website Preview"/>
+          <img src="https://api.microlink.io?url=https%3A%2F%2Flux.rw&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="LUX Rwanda Website Preview"/>
         </a>
         <p><strong>Innovative digital solutions for businesses and organizations across Rwanda</strong></p>
+        <p><em>Technologies: Next.js, Express.js, MongoDB, Tailwind CSS, Stripe</em></p>
       </div>
     </td>
   </tr>
