@@ -41,7 +41,6 @@
   ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   
@@ -56,7 +55,6 @@
       <li>🌐 <strong>Localization</strong> - Multi-language application development with i18next</li>
       <li>📊 <strong>Data Visualization</strong> - Interactive dashboards with D3.js and Chart.js</li>
       <li>🤖 <strong>API Integration</strong> - REST API design and third-party service integration</li>
-      <li>♿ <strong>Accessibility</strong> - WCAG 2.1 compliant applications</li>
       <li>🚀 <strong>Performance Optimization</strong> - Frontend and backend optimization techniques</li>
       <li>💾 <strong>Database Design</strong> - Schema optimization and query performance tuning</li>
       <li>🔄 <strong>Digital Transformation</strong> - Legacy system modernization</li>
