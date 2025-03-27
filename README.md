@@ -151,7 +151,18 @@
         <p><em>Technologies: Next.js, Express.js, MongoDB, Tailwind CSS, Stripe</em></p>
       </div>
     </td>
+    <td with="50%">
+      <h3 align="center"> ISHYAKA (Rwanda)</h3>
+      <div align="center">
+        <a href= "https://www.ishyaka.org/" target="_blank">
+          <img src="https://api.microlink.io?url=https%3A%2F%2Flux.rw&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Ishyaka org Preview"/>
+        </a>
+        <p><strong> Hands of helping children in Rwanda lives of your generation can be guided by the elder generation </strong></p>
+        <p><em>Technologies: Next.js, React.js, Tailwind,shadcn-ui, radix-ui, axios, Typescript, nodejs, PostgreSQL</em></p>
+      </div>
+    </td>
   </tr>
+  
 </table>
 
 ## 🌐 Let's Connect
