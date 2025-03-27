@@ -135,7 +135,7 @@
       <h3 align="center">Shreveport-CHI</h3>
       <div align="center">
         <a href="https://shreveport-knmoise-rwego-hub.vercel.app/" target="_blank">
-          <img src="https://api.microlink.io?url=https%3A%2F%2Fhreveport-knmoise-rwego-hub.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Shreveport-CHI Website Preview"/>
+          <img src="https://api.microlink.io?url=https%3A%2F%2Fshreveport-knmoise-rwego-hub.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Shreveport-CHI Website Preview"/>
         </a>
         <p><strong>Healthcare initiative platform connecting community resources with medical needs</strong></p>
         <p><em>Technologies: Next.js, TypeScript, shadcn/ui, Tailwind CSS, Vercel</em></p>
@@ -151,16 +151,18 @@
         <p><em>Technologies: Next.js, Express.js, MongoDB, Tailwind CSS, Stripe</em></p>
       </div>
     </td>
-    <td width= "50%">
-      <h3 align="center"> ISHYAKA (Rwanda)</h3>
-      <div align="center">
-        <a href= "https://www.ishyaka.org/" target="_blank">
-          <img src="https://api.microlink.io?url=https%3A%2F%2Fishyaka.org&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Ishyaka org Preview"/>
-        </a>
-        <p><strong> Hands of helping children in Rwanda lives of your generation can be guided by the elder generation </strong></p>
-        <p><em>Technologies: Next.js, React.js, Tailwind,shadcn-ui, radix-ui, axios, Typescript, nodejs, PostgreSQL</em></p>
-      </div>
-    </td>
+    <tr>
+  <td width="50%">
+    <h3 align="center"> ISHYAKA (Rwanda)</h3>
+    <div align="center">
+      <a href="https://www.ishyaka.org/" target="_blank">
+        <img src="https://api.microlink.io?url=https%3A%2F%2Fishyaka.org&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Ishyaka org Preview"/>
+      </a>
+      <p><strong>Hands of helping children in Rwanda lives of your generation can be guided by the elder generation</strong></p>
+      <p><em>Technologies: Next.js, React.js, Tailwind, shadcn-ui, radix-ui, axios, Typescript, nodejs, PostgreSQL</em></p>
+    </div>
+  </td>
+</tr>
   </tr>
   
 </table>
