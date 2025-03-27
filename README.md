@@ -134,7 +134,7 @@
     <td width="50%">
       <h3 align="center">Shreveport-CHI</h3>
       <div align="center">
-        <a href="https://shreveport-chi.vercel.app/" target="_blank">
+        <a href="https://shreveport-knmoise-rwego-hub.vercel.app/" target="_blank">
           <img src="https://api.microlink.io?url=https%3A%2F%2Fshreveport-chi.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Shreveport-CHI Website Preview"/>
         </a>
         <p><strong>Healthcare initiative platform connecting community resources with medical needs</strong></p>
