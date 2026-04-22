@@ -51,13 +51,13 @@
     <summary>💫 Specialized Expertise</summary>
     <br>
     <ul align="left">
-      <li>🔒 <strong>Security Implementation</strong> - OWASP standards and secure coding practices</li>
-      <li>🌐 <strong>Localization</strong> - Multi-language application development with i18next</li>
-      <li>📊 <strong>Data Visualization</strong> - Interactive dashboards with D3.js and Chart.js</li>
-      <li>🤖 <strong>API Integration</strong> - REST API design and third-party service integration</li>
-      <li>🚀 <strong>Performance Optimization</strong> - Frontend and backend optimization techniques</li>
-      <li>💾 <strong>Database Design</strong> - Schema optimization and query performance tuning</li>
-      <li>🔄 <strong>Digital Transformation</strong> - Legacy system modernization</li>
+      <li><strong>Security Implementation</strong> - OWASP standards and secure coding practices</li>
+      <li><strong>Localization</strong> - Multi-language application development with i18next</li>
+      <li><strong>Data Visualization</strong> - Interactive dashboards with D3.js and Chart.js</li>
+      <li><strong>API Integration</strong> - REST API design and third-party service integration</li>
+      <li><strong>Performance Optimization</strong> - Frontend and backend optimization techniques</li>
+      <li><strong>Database Design</strong> - Schema optimization and query performance tuning</li>
+      <li><strong>Digital Transformation</strong> - Legacy system modernization</li>
     </ul>
   </details>
 </div>
